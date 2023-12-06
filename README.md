@@ -3,15 +3,15 @@ This repository contains the scripts and distribution files of an easy-to-use in
 
 ![Configurator-GIF](https://github.com/fbattini/Building-Energy-Modeling-Configurator/assets/71373172/764c4435-da1a-4f52-ba9e-3052162a8fe7)
 
-The distribution file are in the folder named Configurator, which can be downloaded to directly use the tool. All the other files present in the repository are the Python files used to develop the configurator.
+The distribution files are located in the Configurator folder, which can be downloaded to use the tool directly. All other files in the repository are the Python files used to develop the configurator.
 
 To use the configurator it is necessary to:
-- Download the Configurator folder present in this repository
-- Download the 9.4.0 version of EnergyPlus compatible with the operating system from the [program website](https://github.com/NREL/EnergyPlus/releases/tag/v9.4.0), or directly download the installer for the [32-bit](https://github.com/NREL/EnergyPlus/releases/download/v9.4.0/EnergyPlus-9.4.0-998c4b761e-Windows-i386.exe) or [64-bit](https://github.com/NREL/EnergyPlus/releases/download/v9.4.0/EnergyPlus-9.4.0-998c4b761e-Windows-x86_64.exe) version
-- Install EnergyPlus in the folder suggested during the installation process (C:\EnergyPlusV9-4-0)
+- Download the Configurator folder from this repository
+- Download the operating system-compatible version 9.4.0 of EnergyPlus from the [program's website](https://github.com/NREL/EnergyPlus/releases/tag/v9.4.0), or download the installer for the [32-bit](https://github.com/NREL/EnergyPlus/releases/download/v9.4.0/EnergyPlus-9.4.0-998c4b761e-Windows-i386.exe) or [64-bit](https://github.com/NREL/EnergyPlus/releases/download/v9.4.0/EnergyPlus-9.4.0-998c4b761e-Windows-x86_64.exe) version directly
+- Install EnergyPlus to the folder suggested during the installation process (C:\EnergyPlusV9-4-0)
 - Open the executable file named Configurator.exe in the Configurator folder
 
-The configurator was developed in Python programming language and is based on numpy, pandas, eppy, and customtkinter.
+The configurator is written in the Python programming language and is based on numpy, pandas, eppy and customtkinter.
 
 ## More details and references
 To learn more about this work or to cite it, please see the following publication (conference proceeding in Italian):
@@ -19,8 +19,8 @@ To learn more about this work or to cite it, please see the following publicatio
 
 ## Current limitations
 For now, this version of the configurator has the following limitations:
-- There is a limited number of energy efficiency measures implemented and it is still not possible to easily add new ones
-- It is not possible to choose which objectives to include in the optmization process
+- There is a limited number of implemented energy efficiency measures and it is not yet possible to easily add new ones
+- It is not possible to choose which objectives to include in the optimization process
 - It is not possible to use optimization algorithms or run simulations in parallel
 
 ## Contact
