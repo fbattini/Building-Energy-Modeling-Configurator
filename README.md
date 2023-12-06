@@ -1,5 +1,7 @@
 # Building-Energy-Modeling-Configurator
-This repository contains the scripts and distribution files of an easy-to-use interface for performing multi-objective optimization on a simplified shoebox-shaped building. The configurator consists of an intuitive interface that allows the user to define geometry, envelope, controls, and operational characteristics of the building to create customized models. The user can decide whether or not to include variables in the optimization process to optimize heating and cooling demand, thermal comfort, and costs, and, once the analysis is complete, the configurator automatically presents the results with the optimal design solutions:
+This repository contains the scripts and distribution files of an easy-to-use interface for performing multi-objective optimization on a simplified shoebox-shaped building. 
+
+The configurator consists of an intuitive interface that allows the user to define geometry, envelope, controls, and operational characteristics of the building to create customized models. The user can decide whether or not to include variables in the optimization process to optimize heating and cooling demand, thermal comfort, and costs, and, once the analysis is complete, the configurator automatically presents the results with the optimal design solutions:
 
 ![Configurator-GIF](https://github.com/fbattini/Building-Energy-Modeling-Configurator/assets/71373172/764c4435-da1a-4f52-ba9e-3052162a8fe7)
 
