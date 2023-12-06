@@ -1,0 +1,6 @@
+Material,Thermal transmittance,Solar factor,Solar transmittance,Solar reflectance,Price
+Single glazing,5.75,0.84,0.842,0.076,0
+Double glazing (low),2.65,0.76,0.716,0.131,421.7
+Triple glazing (low),1.72,0.68,0.614,0.172,463.9
+Double glazing (high),2.65,0.76,0.716,0.131,448.4
+Triple glazing (high),1.72,0.68,0.614,0.172,492.4

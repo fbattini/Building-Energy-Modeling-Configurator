@@ -1,0 +1,5 @@
+Material,Density,Thermal conductivity,Specific heat capacity,Cost base,Cost increase
+XPS (low),30,0.035,1.45,55.6,112.5
+Wood fiber (low),160,0.045,2,74.6,363.7
+XPS (high),30,0.035,1.45,52,288.3
+Wood fiber (high),160,0.045,2,76.9,373.6

@@ -1,0 +1,128 @@
+Shadowing Combinations
+..Solar Distribution=FullInteriorAndExteriorWithReflectionsFromExteriorSurfaces
+..In the following, only the first 10 reference surfaces will be shown.
+..But all surfaces are used in the calculations.
+==================================
+Surface=EXTERNAL_WALL_SOUTH is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=14
+...Surface=ADIABATIC_WALL_SOUTH
+...Surface=EXTERNAL_WALL_WEST
+...Surface=ADIABATIC_WALL_WEST
+...Surface=EXTERNAL_WALL_NORTH
+...Surface=ADIABATIC_WALL_NORTH
+...Surface=EXTERNAL_WALL_EAST
+...Surface=ADIABATIC_WALL_EAST
+...Surface=FLOOR_ADIABATIC
+...Surface=FLOOR
+...Surface=ROOF_ADIABATIC
+Number of receiving sub surfaces=1
+....Surface=SOUTH_WINDOW
+==================================
+Surface=SOUTH_WINDOW is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=ADIABATIC_WALL_SOUTH is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=EXTERNAL_WALL_WEST is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=14
+...Surface=EXTERNAL_WALL_SOUTH
+...Surface=ADIABATIC_WALL_SOUTH
+...Surface=ADIABATIC_WALL_WEST
+...Surface=EXTERNAL_WALL_NORTH
+...Surface=ADIABATIC_WALL_NORTH
+...Surface=EXTERNAL_WALL_EAST
+...Surface=ADIABATIC_WALL_EAST
+...Surface=FLOOR_ADIABATIC
+...Surface=FLOOR
+...Surface=ROOF_ADIABATIC
+Number of receiving sub surfaces=1
+....Surface=WEST_WINDOW
+==================================
+Surface=WEST_WINDOW is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=ADIABATIC_WALL_WEST is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=EXTERNAL_WALL_NORTH is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=14
+...Surface=EXTERNAL_WALL_SOUTH
+...Surface=ADIABATIC_WALL_SOUTH
+...Surface=EXTERNAL_WALL_WEST
+...Surface=ADIABATIC_WALL_WEST
+...Surface=ADIABATIC_WALL_NORTH
+...Surface=EXTERNAL_WALL_EAST
+...Surface=ADIABATIC_WALL_EAST
+...Surface=FLOOR_ADIABATIC
+...Surface=FLOOR
+...Surface=ROOF_ADIABATIC
+Number of receiving sub surfaces=1
+....Surface=NORTH_WINDOW
+==================================
+Surface=NORTH_WINDOW is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=ADIABATIC_WALL_NORTH is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=EXTERNAL_WALL_EAST is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=14
+...Surface=EXTERNAL_WALL_SOUTH
+...Surface=ADIABATIC_WALL_SOUTH
+...Surface=EXTERNAL_WALL_WEST
+...Surface=ADIABATIC_WALL_WEST
+...Surface=EXTERNAL_WALL_NORTH
+...Surface=ADIABATIC_WALL_NORTH
+...Surface=ADIABATIC_WALL_EAST
+...Surface=FLOOR_ADIABATIC
+...Surface=FLOOR
+...Surface=ROOF_ADIABATIC
+Number of receiving sub surfaces=1
+....Surface=EAST_WINDOW
+==================================
+Surface=EAST_WINDOW is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=ADIABATIC_WALL_EAST is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=FLOOR_ADIABATIC is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=FLOOR is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=ROOF_ADIABATIC is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=ROOF is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0

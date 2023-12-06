@@ -1,0 +1,4 @@
+Material,Density,Thermal conductivity,Specific heat capacity
+Timber,399,0.13,1.88
+Clay block,893,0.25,0.84
+Concrete,1190,0.37,0.84
