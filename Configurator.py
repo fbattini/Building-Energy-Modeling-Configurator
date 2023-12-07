@@ -5,8 +5,8 @@ import customtkinter
 import os
 import pandas as pd
 import sys
-from CreateIDF_Function import createIDF
-from Optimization_Function_BruteForce import runOptimization
+from CreateIDF import createIDF
+from OptimizationBruteForce import runOptimization
 from InvestmentCost import investmentCost
 from threading import Thread
 from eppy.modeleditor import IDF
