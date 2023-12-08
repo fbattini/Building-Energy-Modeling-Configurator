@@ -19,6 +19,8 @@ The configurator is written in the Python programming language and is based on n
 To learn more about this work or to cite it, please see the following publication (conference proceeding in Italian):
 - Federico Battini, Giovanni Pernigotto, Andrea Gasparella, "Development of a simplified configurator to promote the use of building performance simulation in the design and retrofit process of existing buildings", 39° Convegno Nazionale AiCARR, 8 September 2023, Napoli, Italy ([https://www.sciencedirect.com/science/article/pii/S2210670722006096](https://www.aicarr.org/Convegni/Convegni_Dettaglio.aspx))
 
+When using the tool, please acknowledge the Mass Customization 4.0 project (https://mc4.projects.unibz.it/en/home-english/), for which a first version of the configurator was developed, and the iNEST project (https://www.consorzioinest.it/en/), for which the current version of the configurator was developed.
+
 ## Current limitations
 For now, this version of the configurator has the following limitations:
 - There is a limited number of implemented energy efficiency measures and it is not yet possible to easily add new ones
